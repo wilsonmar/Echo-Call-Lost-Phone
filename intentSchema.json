@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "CallIntent",
+      "slots": [
+        {
+          "name": "Control",
+          "type": "LITERAL"
+        }
+      ]
+    }
+  ]
+}
