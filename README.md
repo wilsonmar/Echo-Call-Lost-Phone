@@ -5,7 +5,7 @@ Use Amazon Echo to call your lost phone.
 
 Refer to https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function for more detailed information.
 
-1. In index.js on line 37 replace "Name" with your name.
+1. In index.js on line 35 replace "Name" with your name.
 2. In index.js on line 37 replace ###-###-#### in var post_data with your phone number.
 3. Compress index.js and AlexaSkill.js into a ZIP archive and upload to AWS Lambda.
 4. Save and Invoke using the following:
