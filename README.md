@@ -40,7 +40,7 @@ Refer to https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skil
 ```
 4. In SampleUtterances.txt replace "Name" with your name.
 5. Set up new Alexa Skill on https://developer.amazon.com/edw/home.html#/ and utilize intentSchema.json and SampleUtterances.txt to help let Alexa know what she should be listening for.
-6. Save everything and tell Alexa to do something on your Roku.
+6. Save everything and tell Alexa to do call you and wait for your phone to ring.
 
 ######Sample Statements
 * Alexa, tell phone to call Jack.
