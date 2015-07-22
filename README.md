@@ -10,7 +10,7 @@ Refer to https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skil
 3. Compress index.js and AlexaSkill.js into a ZIP archive and upload to AWS Lambda.
 4. Save and Invoke using the following:
 
-```
+  ```
 {
   "version": "1.0",
   "session": {
@@ -38,7 +38,7 @@ Refer to https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skil
     }
   }
 }
-```
+  ```
 
 0. In SampleUtterances.txt replace "Name" with your name.
 5. Set up new Alexa Skill on https://developer.amazon.com/edw/home.html#/ and utilize intentSchema.json and SampleUtterances.txt to help let Alexa know what she should be listening for.
